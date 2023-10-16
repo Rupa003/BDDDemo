@@ -16,6 +16,7 @@ public class PrintStudentsTable {
             System.out.println("Student Name: " + resultSet.getString("name"));
             System.out.println("Student Age: " + resultSet.getString("subject"));
             System.out.println();
+            System.out.println("user is working on github");
         }
 
         // Close the ResultSet, Statement, and Connection objects.
