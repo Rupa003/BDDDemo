@@ -16,6 +16,7 @@ public class FileReaderDemo {
         fr1.read(ch);
         for(char c: ch){
             System.out.println(c);
+            System.out.println("testing the staging area via GitBash");
         }
 
         fr.close();
