@@ -17,6 +17,7 @@ public class PrintStudentsTable {
             System.out.println("Student Age: " + resultSet.getString("subject"));
             System.out.println();
             System.out.println("user is working on github");
+            System.out.println("this time around I am practicing user is working on github via command line");
         }
 
         // Close the ResultSet, Statement, and Connection objects.
