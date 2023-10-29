@@ -20,6 +20,7 @@ public class PrintStudentsTable {
             System.out.println("this time around I am practicing user is working on github via command line");
             System.out.println("This is commit from feature into master");
             System.out.println("This demo is for git rebase from eclipse");
+            System.out.println("This demo is my first github commit integrating with Jenkins");
         
                 
         }
